@@ -6,6 +6,12 @@
         "id": "25.10.25",
         "releasedAt": 1761350400000,
         "updateType": "major"
+    },
+    
+    {
+        "id": "26.01.13",
+        "releasedAt": 1768336444929,
+        "updateType": "major"
     }
   ]
 }
