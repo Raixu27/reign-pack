@@ -1,2 +1,2 @@
 # reign-pack
-Small personal modpack
+Changelogs for a small personal modpack
