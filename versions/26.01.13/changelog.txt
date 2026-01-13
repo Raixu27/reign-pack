@@ -54,7 +54,6 @@
 - Update Lootr 0.7.35.93 to 0.7.35.94 {Server and Client}
 - Update ModernFix 5.24.4 to 5.25.2 {Server and Client}
 - Update Moonlight Lib 2.16.15 to 2.16.21 {Server and Client}
-- Update Mystic's Biomes 3.4.2 to 3.5 {Server and Client}
 - Update Naturalist Lite 5.0pre3 to 5.0pre5 {Server and Client}
 - Update Not Enough Animations 1.10.6 to 1.11.1 {Client}
 - Update Obscure API 15 to 18 {Server and Client}
