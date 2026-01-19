@@ -1,0 +1,31 @@
+## New mods
+- Add Ars Elemental {Server and Client}
+- Add CreateBetterFps {Client}
+- Add Create Kart {Server and Client}
+- Add Create Utilities {Server and Client}
+- Add Create: Curios Jetpack & Backtank {Server and Client}
+- Add Create: Gunsmithing {Server and Client}
+- Add Create: Radars {Server and Client}
+- Add Create: Ultimate Factory {Server and Client}
+- Add Flerovium {Client}
+- Add Forge String Unpatched {Server}
+- Add Framework {Server and Client}
+- Add MemorySweep {Server}
+- Add NukaTeam's Gun Lib {Server and Client}
+- Add TT20 {Server} [Could help drastically with making server lag feel less laggy]
+
+## Updated Mods
+- Update Forge 47.4.13 to 47.4.15 {Server and Client}
+- Update Amendments 2.2.3 to 2.2.5 {Server and Client}
+- Update Citadel 2.6.2 to 2.6.3 {Server and Client}
+- Update Fusion (Connected Textures) 1.2.11c to 1.2.12 {Client}
+- Update Fzzy Config 0.7.4 to 0.7.5 {Server and Client}
+- Update Moonlight Lib 2.16.21 to 2.16.23 {Server and Client}
+- Update Traveler's Backpack 9.1.49 to 9.1.50 {Server and Client}
+- Update Twilight's Flavor & Delight 2.0.17 to 2.0.19 {Server and Client}
+
+## Misc. Updates
+- Update Miniature Shader 2.18.7 to 2.18.8 {Client}
+
+## Misc. Changes
+- Move Jade menu
