@@ -17,6 +17,11 @@
         "id": "26.01.19",
         "releasedAt": 1768853195651,
         "updateType": "minor"
+    },
+    {
+        "id": "26.01.26",
+        "releasedAt": 1769441418928,
+        "updateType": "minor"
     }
   ]
 }
