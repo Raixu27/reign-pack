@@ -28,7 +28,8 @@
 - Add new server icon {Server}
 - Add new modpack icon {Client}
 - Rebrand panorama screen resource pack {Client}
-- Disablep photosensitivity warning from Alex's Mobs Interaction {Client} [this decision was made mostly because this is a very small server and no one is photosensitive afaik]
+- Disable photosensitivity warning from Alex's Mobs Interaction {Client} [this decision was made mostly because this is a very small server and no one is photosensitive afaik]
+- Sync BCLib config with server {Client}
 
 ## Misc. Removals
 - Remove Fresh Animations {Client}
