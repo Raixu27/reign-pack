@@ -1,0 +1,35 @@
+## New Mods
+- Add Not Enough Glyphs {Server and Client}
+- Add PacketFixer {Server and Client}
+- Add Radium {Server}
+- Add Spark {Server}
+
+## Updated Mods
+- Update Forge 47.4.15 to 47.4.16 {Server and Client}
+- Update Flerovium 1.2.16 to 1.2.17 {Client}
+- Update ModernFix 5.25.2 to 5.26.2 {Server and Client}
+- Update Oh The Trees You'll Grow 1.4.2 to 1.5.0 {Server and Client}
+- Update Particle Core 0.2.6 to 0.3.2 {Client}
+- Update SuperMartijn642's Core Lib 1.1.19 to 1.1.20 {Server and Client}
+- Update Traveler's Backpack 9.1.50 to 9.1.51 {Server and Client}
+
+## Removed Mods
+- Remove Canary {Server}
+- Remove TT20 {Server}
+- Remove MemorySweep {Server}
+
+## Misc. Updates
+- Update MakeUp - Ultra Fast 9.4a to 9.4b
+
+## Misc. Changes
+- Spark profiler ModernFix integration disabled, see https://github.com/embeddedt/ModernFix/wiki/Profiling-game-launches {Server}
+- Change the main multiplayer server's IP address from 202.36.95.221:22335 to idk-modded.minecraft.pe:25911. This is because we moved to a much more powerful server hoster. {Client}
+- Update modpack information. {Client}
+- Add new server icon {Server}
+- Add new modpack icon {Client}
+- Rebrand panorama screen resource pack {Client}
+- Disablep photosensitivity warning from Alex's Mobs Interaction {Client} [this decision was made mostly because this is a very small server and no one is photosensitive afaik]
+
+## Misc. Removals
+- Remove Fresh Animations {Client}
+- Remove Even Better Enchantments {Client}
